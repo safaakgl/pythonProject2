@@ -135,9 +135,6 @@
 
 # Gerekli Kütüphane ve Fonksiyonlar
 
-pip install joblib
-pip install pyodbc
-
 
 import numpy as np
 import pandas as pd
@@ -160,7 +157,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import pyodbc
 import warnings
-import streamlit
+import streamlit as st
 
 
 
