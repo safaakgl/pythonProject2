@@ -7,5 +7,3 @@ catboost
 lightgbm
 xgboost
 pyodbc
-freetds-bin
-freetds-dev
