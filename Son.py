@@ -138,7 +138,7 @@
 
 import numpy as np
 import pandas as pd
-import joblib
+#import joblib
 import random
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -862,10 +862,10 @@ random = X.sample(1, random_state=45)
 # lgbm_final.predict(random)
 # SVM_final.predict(random)
 
-joblib.dump(rf_final, "rf_final_dropout.pkl")
-joblib.dump(xgboost_final, "xgboost_final_dropout.pkl")
-joblib.dump(lgbm_final, "lgbm_final_dropout.pkl")
-joblib.dump(SVM_final, "SVM_final_dropout.pkl")
+#joblib.dump(rf_final, "rf_final_dropout.pkl")
+#joblib.dump(xgboost_final, "xgboost_final_dropout.pkl")
+#joblib.dump(lgbm_final, "lgbm_final_dropout.pkl")
+#joblib.dump(SVM_final, "SVM_final_dropout.pkl")
 
 # SVM_final_model_from_disc = joblib.load("voting_clf.pkl")
 # df = pd.read_csv("C:/Users/mehmet kupeli/PycharmProjects/pythonProject/datasets/data.csv", engine='python', sep=None)
