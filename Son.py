@@ -554,7 +554,7 @@ def rare_encoder(dataframe, rare_perc):
 
 
 df = rare_encoder(df, 0.01)
-rare_analyser(df, "TARGET", cat_cols)
+#rare_analyser(df, "TARGET", cat_cols)
 
 
 # df.drop(useless_cols, axis=1, inplace=True)
