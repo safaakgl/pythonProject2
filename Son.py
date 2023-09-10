@@ -166,10 +166,7 @@ pd.set_option('display.width', 170)
 pd.set_option('display.max_rows', None)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
-server = 'tcp:edufate.database.windows.net,1433'
-database = 'Miuul'
-username = 'safa'
-password = 'Miuul0x*'
+
 
 connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={server};DATABASE={database};UID={username};PWD={password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
 
