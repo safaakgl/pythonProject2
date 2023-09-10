@@ -612,8 +612,8 @@ df.dtypes
 X.dtypes
 y.dtypes
 
-X = X.astype(float)
-y = y.astype(float)
+#X = X.astype(float)
+#y = y.astype(float)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=17)
 LR1 = LogisticRegression(random_state=17).fit(X_train, y_train)
 
