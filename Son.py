@@ -311,8 +311,8 @@ def grab_col_names(dataframe, cat_th=15, car_th=30):
     print(f'num_but_cat: {len(num_but_cat)}')
 
     # Threshld üstünde kalan ama kategorik olan değişkenleri manuel ekledim
-    deltas = ['APPLICATION_MODE', 'PREVIOUS_QUALIFICATION', 'NACIONALITY', "MOTHER'S_QUALIFICATION",
-              "FATHER'S_QUALIFICATION", "MOTHER'S_OCCUPATION", "FATHER'S_OCCUPATION", "COURSE"]
+    deltas = ['APPLICATION_MODE', 'PREVIOUS_QUALIFICATION', 'NACIONALITY', "MOTHERS_QUALIFICATION",
+              "FATHERS_QUALIFICATION", "MOTHERS_OCCUPATION", "FATHERS_OCCUPATION", "COURSE"]
 
     cat_cols += [deltas for deltas in deltas]
     num_cols = list(set(num_cols) - set(deltas))
