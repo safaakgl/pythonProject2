@@ -168,9 +168,22 @@ pd.set_option('display.width', 170)
 pd.set_option('display.max_rows', None)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
+def init_connection():
+    return pyodbc.connect(
+        "DRIVER={ODBC Driver 18 for SQL Server};SERVER="
+        + st.secrets["server"]
+        + ";DATABASE="
+        + st.secrets["database"]
+        + ";UID="
+        + st.secrets["username"]
+        + ";PWD="
+        + st.secrets["password"]
+    )
+
+connection = init_connection()
 
 
-connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={st.secrets.db_credentials.server};DATABASE={st.secrets.db_credentials.database};UID={st.secrets.db_credentials.username};PWD={st.secrets.db_credentials.password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
+#connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={st.secrets.db_credentials.server};DATABASE={st.secrets.db_credentials.database};UID={st.secrets.db_credentials.username};PWD={st.secrets.db_credentials.password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
 
 query = "SELECT * FROM Students"
 
