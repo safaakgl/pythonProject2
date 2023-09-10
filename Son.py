@@ -31,50 +31,50 @@
 
 # 37 Değişken 4424 Gözlem
 
-#'Maritalstatus': Medeni durumu temsil eder.
-#'Applicationmode': Başvuru modunu temsil eder.
-#'Applicationorder': Başvuru sırasını temsil eder.
-#'Course': Alınan kursu temsil eder.
-#'Daytime/eveningattendance': Gündüz veya akşam katılımını temsil eder.
-#'Previousqualification': Önceki eğitim seviyesini temsil eder.
-#'Previousqualification(grade)': Önceki eğitim notunu temsil eder.
-#'Nacionality': Uyruğu temsil eder.
-#"Mother'squalification": Anne eğitim seviyesini temsil eder.
-#"Father'squalification": Baba eğitim seviyesini temsil eder.
-#'Mother'soccupation': Anne mesleğini temsil eder.
-#'Father'soccupation': Baba mesleğini temsil eder.
-#'Admissiongrade': Kabul notunu temsil eder.
-#'Displaced': Yerinden edilip edilmediğini temsil eder.
-#'Educationalspecialneeds': Özel Eğitime İhtiyacı Var mı ?.
-#'Debtor': Borçlu olup olmadığını temsil eder.
-#'Tuitionfeesuptodate': Ders ücretlerinin güncel olup olmadığını temsil eder.
-#'Gender': Cinsiyeti temsil eder.
-#'Scholarshipholder': Burs sahibi olup olmadığını temsil eder.
-#'Ageatenrollment': Kayıt anındaki yaşını temsil eder.
-#'International': Uluslararası öğrenci olup olmadığını temsil eder.
-#'Curricularunits1stsem(credited)': Birinci yarıyılın tamamlandığını temsil eder.
-#'Curricularunits1stsem(enrolled)': Birinci yarıyıla kayıt yaptırdığını temsil eder.
-#'Curricularunits1stsem(evaluations)': Birinci yarıyılın değerlendirildiğini temsil eder.
-#'Curricularunits1stsem(approved)': Birinci yarıyılın onaylandığını temsil eder.
-#'Curricularunits1stsem(grade)': Birinci yarıyıl notunu temsil eder.
-#'Curricularunits1stsem(withoutevaluations)': Birinci yarıyılın değerlendirilmeden tamamlandığını temsil eder.
-#'Curricularunits2ndsem(credited)': İkinci yarıyılın tamamlandığını temsil eder.
-#'Curricularunits2ndsem(enrolled)': İkinci yarıyıla kayıt yaptırdığını temsil eder.
-#'Curricularunits2ndsem(evaluations)': İkinci yarıyılın değerlendirildiğini temsil eder.
-#'Curricularunits2ndsem(approved)': İkinci yarıyılın onaylandığını temsil eder.
-#'Curricularunits2ndsem(grade)': İkinci yarıyıl notunu temsil eder.
-#'Curricularunits2ndsem(withoutevaluations)': İkinci yarıyılın değerlendirilmeden tamamlandığını temsil eder.
-#'Unemploymentrate': İşsizlik oranını
-#'Inflationrate': Enflasyon oranını
-#'GDP': Gayri Safi Yurtiçi Hasıla
-#'Target': Hedef değişken
+# 'Maritalstatus': Medeni durumu temsil eder.
+# 'Applicationmode': Başvuru modunu temsil eder.
+# 'Applicationorder': Başvuru sırasını temsil eder.
+# 'Course': Alınan kursu temsil eder.
+# 'Daytime/eveningattendance': Gündüz veya akşam katılımını temsil eder.
+# 'Previousqualification': Önceki eğitim seviyesini temsil eder.
+# 'Previousqualification(grade)': Önceki eğitim notunu temsil eder.
+# 'Nacionality': Uyruğu temsil eder.
+# "Mother'squalification": Anne eğitim seviyesini temsil eder.
+# "Father'squalification": Baba eğitim seviyesini temsil eder.
+# 'Mother'soccupation': Anne mesleğini temsil eder.
+# 'Father'soccupation': Baba mesleğini temsil eder.
+# 'Admissiongrade': Kabul notunu temsil eder.
+# 'Displaced': Yerinden edilip edilmediğini temsil eder.
+# 'Educationalspecialneeds': Özel Eğitime İhtiyacı Var mı ?.
+# 'Debtor': Borçlu olup olmadığını temsil eder.
+# 'Tuitionfeesuptodate': Ders ücretlerinin güncel olup olmadığını temsil eder.
+# 'Gender': Cinsiyeti temsil eder.
+# 'Scholarshipholder': Burs sahibi olup olmadığını temsil eder.
+# 'Ageatenrollment': Kayıt anındaki yaşını temsil eder.
+# 'International': Uluslararası öğrenci olup olmadığını temsil eder.
+# 'Curricularunits1stsem(credited)': Birinci yarıyılın tamamlandığını temsil eder.
+# 'Curricularunits1stsem(enrolled)': Birinci yarıyıla kayıt yaptırdığını temsil eder.
+# 'Curricularunits1stsem(evaluations)': Birinci yarıyılın değerlendirildiğini temsil eder.
+# 'Curricularunits1stsem(approved)': Birinci yarıyılın onaylandığını temsil eder.
+# 'Curricularunits1stsem(grade)': Birinci yarıyıl notunu temsil eder.
+# 'Curricularunits1stsem(withoutevaluations)': Birinci yarıyılın değerlendirilmeden tamamlandığını temsil eder.
+# 'Curricularunits2ndsem(credited)': İkinci yarıyılın tamamlandığını temsil eder.
+# 'Curricularunits2ndsem(enrolled)': İkinci yarıyıla kayıt yaptırdığını temsil eder.
+# 'Curricularunits2ndsem(evaluations)': İkinci yarıyılın değerlendirildiğini temsil eder.
+# 'Curricularunits2ndsem(approved)': İkinci yarıyılın onaylandığını temsil eder.
+# 'Curricularunits2ndsem(grade)': İkinci yarıyıl notunu temsil eder.
+# 'Curricularunits2ndsem(withoutevaluations)': İkinci yarıyılın değerlendirilmeden tamamlandığını temsil eder.
+# 'Unemploymentrate': İşsizlik oranını
+# 'Inflationrate': Enflasyon oranını
+# 'GDP': Gayri Safi Yurtiçi Hasıla
+# 'Target': Hedef değişken
 
 # Target : object Bu problem, bir kursun normal süresinin sonunda (belirtilen sürenin bitiminde) üç kategoriye ayrılan bir sınıflandırma görevi olarak formüle edilmiştir:
 # ayrılan süre içinde bırakanlar (dropout), kayıtlı olanlar (enrolled) ve mezun olanlar (graduate)."
 
 
 ##############################
-#Kaynak
+# Kaynak
 ##############################
 
 # M.V.Martins, D. Tolledo, J. Machado, L. M.T. Baptista, V.Realinho. (2021)
@@ -90,12 +90,12 @@ import joblib
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier,GradientBoostingClassifier,AdaBoostClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier
 from sklearn.svm import SVC
 from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 from sklearn.model_selection import train_test_split, GridSearchCV, cross_validate, cross_val_score
-from sklearn.metrics import classification_report,roc_auc_score,accuracy_score,confusion_matrix
+from sklearn.metrics import classification_report, roc_auc_score, accuracy_score, confusion_matrix
 import warnings
 import pyodbc
 import streamlit as st
@@ -103,7 +103,6 @@ import streamlit as st
 warnings.simplefilter(action="ignore")
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 500)
-
 
 
 def init_connection():
@@ -118,16 +117,16 @@ def init_connection():
         + st.secrets["password"]
     )
 
+
 connection = init_connection()
-
-
 
 query = "SELECT * FROM Students"
 
 df = pd.read_sql(query, connection)
-#df=pd.read_csv("Datasets/data.csv",sep=None,engine='python')
+# df=pd.read_csv("Datasets/data.csv",sep=None,engine='python')
 df["Target"].value_counts()
 df['Target'] = df['Target'].apply(lambda x: 1 if x == 'Dropout' else 0)
+
 
 ##################################
 # GÖREV 1: KEŞİFCİ VERİ ANALİZİ
@@ -154,6 +153,8 @@ def check_df(dataframe, head=5):
 check_df(df)
 
 df.info()
+
+
 ##################################
 # NUMERİK VE KATEGORİK DEĞİŞKENLERİN YAKALANMASI
 ##################################
@@ -197,8 +198,10 @@ def grab_col_names(dataframe, cat_th=15, car_th=20):
     """
     # cat_cols, cat_but_car
     cat_cols = [col for col in dataframe.columns if dataframe[col].dtypes == "O"]
-    num_but_cat = [col for col in dataframe.columns if dataframe[col].nunique() < cat_th and dataframe[col].dtypes != "O"]
-    cat_but_car = [col for col in dataframe.columns if dataframe[col].nunique() > car_th and dataframe[col].dtypes == "O"]
+    num_but_cat = [col for col in dataframe.columns if
+                   dataframe[col].nunique() < cat_th and dataframe[col].dtypes != "O"]
+    cat_but_car = [col for col in dataframe.columns if
+                   dataframe[col].nunique() > car_th and dataframe[col].dtypes == "O"]
     cat_cols = cat_cols + num_but_cat
     cat_cols = [col for col in cat_cols if col not in cat_but_car]
 
@@ -222,6 +225,7 @@ cat_cols
 num_cols
 cat_but_car
 
+
 ##################################
 # KATEGORİK DEĞİŞKENLERİN ANALİZİ
 ##################################
@@ -238,6 +242,7 @@ def cat_summary(dataframe, col_name, plot=False):
 for col in cat_cols:
     cat_summary(df, col, plot=False)
 
+
 ##################################
 # NUMERİK DEĞİŞKENLERİN ANALİZİ
 ##################################
@@ -251,8 +256,10 @@ def num_summary(dataframe, numerical_col, plot=False):
         plt.title(numerical_col)
         plt.show(block=True)
 
+
 for col in num_cols:
     num_summary(df, col, plot=False)
+
 
 ##################################
 # NUMERİK DEĞİŞKENLERİN TARGET GÖRE ANALİZİ
@@ -261,8 +268,10 @@ for col in num_cols:
 def target_summary_with_num(dataframe, target, numerical_col):
     print(dataframe.groupby(target).agg({numerical_col: "mean"}), end="\n\n\n")
 
+
 for col in num_cols:
     target_summary_with_num(df, "Target", col)
+
 
 ##################################
 # KATEGORİK DEĞİŞKENLERİN TARGET GÖRE ANALİZİ
@@ -273,6 +282,7 @@ def target_summary_with_cat(dataframe, target, categorical_col):
     print(pd.DataFrame({"TARGET_MEAN": dataframe.groupby(categorical_col)[target].mean(),
                         "Count": dataframe[categorical_col].value_counts(),
                         "Ratio": 100 * dataframe[categorical_col].value_counts() / len(dataframe)}), end="\n\n\n")
+
 
 for col in cat_cols:
     target_summary_with_cat(df, "Target", col)
@@ -297,6 +307,7 @@ df.corrwith(df["Target"]).sort_values(ascending=False)
 
 df.isnull().sum()
 
+
 def missing_values_table(dataframe, na_name=False):
     na_columns = [col for col in dataframe.columns if dataframe[col].isnull().sum() > 0]
     n_miss = dataframe[na_columns].isnull().sum().sort_values(ascending=False)
@@ -305,6 +316,7 @@ def missing_values_table(dataframe, na_name=False):
     print(missing_df, end="\n")
     if na_name:
         return na_columns
+
 
 na_columns = missing_values_table(df, na_name=True)
 
@@ -316,9 +328,12 @@ dff = df.copy()
 cat_cols = [col for col in cat_cols if col not in ["Target"]]
 cat_cols
 
+
 def one_hot_encoder(dataframe, categorical_cols, drop_first=False):
     dataframe = pd.get_dummies(dataframe, columns=categorical_cols, drop_first=drop_first)
     return dataframe
+
+
 dff = one_hot_encoder(dff, cat_cols, drop_first=True)
 
 y = dff["Target"]
@@ -327,26 +342,29 @@ X = dff.drop(["Target"], axis=1)
 #####################
 # Başarı Değerlendirme (LogisticRegression Modeli için)
 #####################
-log_model=LogisticRegression().fit(X,y)
-y_pred=log_model.predict(X)
-print(classification_report(y,y_pred))
-y_prob=log_model.predict_proba(X)[:,1]
-roc_auc_score(y,y_prob)
-def plot_confusion_matrix(y,y_pred):
-    acc=round(accuracy_score(y,y_pred),2)
-    cm=confusion_matrix(y,y_pred)
-    sns.heatmap(cm,annot=True,fmt=".0f")
+log_model = LogisticRegression().fit(X, y)
+y_pred = log_model.predict(X)
+print(classification_report(y, y_pred))
+y_prob = log_model.predict_proba(X)[:, 1]
+roc_auc_score(y, y_prob)
+
+
+def plot_confusion_matrix(y, y_pred):
+    acc = round(accuracy_score(y, y_pred), 2)
+    cm = confusion_matrix(y, y_pred)
+    sns.heatmap(cm, annot=True, fmt=".0f")
     plt.xlabel("y_pred")
     plt.xlabel("y")
-    plt.title("Accuary Score:{0}".format(acc),size=10)
+    plt.title("Accuary Score:{0}".format(acc), size=10)
     plt.show()
 
-plot_confusion_matrix(y,y_pred)
 
-cv_results=cross_validate(log_model,
-                          X,y,
-                          cv=5,
-                          scoring=["accuracy","precision","recall","f1","roc_auc"])
+plot_confusion_matrix(y, y_pred)
+
+cv_results = cross_validate(log_model,
+                            X, y,
+                            cv=5,
+                            scoring=["accuracy", "precision", "recall", "f1", "roc_auc"])
 cv_results["test_accuracy"].mean()
 cv_results["test_precision"].mean()
 cv_results["test_recall"].mean()
@@ -358,19 +376,19 @@ cv_results["test_roc_auc"].mean()
 #####################
 
 
-X_train,X_test,y_train,y_test=train_test_split(X,
-                                               y,
-                                               test_size=0.2)
-rf_model=RandomForestClassifier().fit(X_train,y_train)
-y_pred=rf_model.predict(X_test)
-y_prob=rf_model.predict_proba(X_test)[:,1]
-print(classification_report(y_test,y_pred))
-roc_auc_score(y_test,y_prob)
+X_train, X_test, y_train, y_test = train_test_split(X,
+                                                    y,
+                                                    test_size=0.2)
+rf_model = RandomForestClassifier().fit(X_train, y_train)
+y_pred = rf_model.predict(X_test)
+y_prob = rf_model.predict_proba(X_test)[:, 1]
+print(classification_report(y_test, y_pred))
+roc_auc_score(y_test, y_prob)
 
-plot_confusion_matrix(y_test,y_pred)
+plot_confusion_matrix(y_test, y_pred)
+
 
 def plot_importance(model, features, num=len(X), save=False):
-
     feature_imp = pd.DataFrame({"Value": model.feature_importances_, "Feature": features.columns})
     plt.figure(figsize=(10, 10))
     sns.set(font_scale=1)
@@ -381,8 +399,8 @@ def plot_importance(model, features, num=len(X), save=False):
     if save:
         plt.savefig("importances.png")
 
-plot_importance(rf_model,X,15)
 
+plot_importance(rf_model, X, 15)
 
 ##################################
 # GÖREV 2: Data Preprocessing & FEATURE ENGINEERING
@@ -393,6 +411,8 @@ plot_importance(rf_model,X,15)
 ##################################
 
 df.isnull().sum()
+
+
 def missing_values_table(dataframe, na_name=False):
     na_columns = [col for col in dataframe.columns if dataframe[col].isnull().sum() > 0]
     n_miss = dataframe[na_columns].isnull().sum().sort_values(ascending=False)
@@ -402,7 +422,9 @@ def missing_values_table(dataframe, na_name=False):
     if na_name:
         return na_columns
 
+
 na_columns = missing_values_table(df, na_name=True)
+
 
 # Eksik Değerlerin Bağımlı Değişken ile İlişkisinin İncelenmesi
 def missing_vs_target(dataframe, target, na_columns):
@@ -423,11 +445,16 @@ missing_vs_target(df, "Target", na_columns)
 
 df.columns
 
-cat_cols=['﻿Marital status', 'Application mode', 'Application order', 'Course', 'Daytime/evening attendance\t', 'Previous qualification', 'Nacionality', "Mother's qualification", "Father's qualification", "Mother's occupation", "Father's occupation", 'Displaced', 'Educational special needs', 'Debtor', 'Tuition fees up to date', 'Gender', 'Scholarship holder', 'International', 'Unemployment rate', 'Inflation rate','GDP']
+cat_cols = ['﻿Marital_status', 'Application_mode', 'Application order', 'Course', 'Daytimeevening_attendance',
+            'Previous_qualification', 'Nacionality', "Mothers_qualification", "Fathers_qualification",
+            "Mothers_occupation", "Fathers_occupation", 'Displaced', 'Educational_special needs', 'Debtor',
+            'Tuition_fees_up_to_date', 'Gender', 'Scholarship_holder', 'International', 'Unemployment_rate',
+            'Inflation_rate', 'GDP']
 df[cat_cols]
-df[cat_cols]=df[cat_cols].astype(object)
+df[cat_cols] = df[cat_cols].astype(object)
 
 df.info()
+
 
 def grab_col_names(dataframe, cat_th=15, car_th=20):
     """
@@ -468,8 +495,10 @@ def grab_col_names(dataframe, cat_th=15, car_th=20):
     """
     # cat_cols, cat_but_car
     cat_cols = [col for col in dataframe.columns if dataframe[col].dtypes == "O"]
-    num_but_cat = [col for col in dataframe.columns if dataframe[col].nunique() < cat_th and dataframe[col].dtypes != "O"]
-    cat_but_car = [col for col in dataframe.columns if dataframe[col].nunique() > car_th and dataframe[col].dtypes == "O"]
+    num_but_cat = [col for col in dataframe.columns if
+                   dataframe[col].nunique() < cat_th and dataframe[col].dtypes != "O"]
+    cat_but_car = [col for col in dataframe.columns if
+                   dataframe[col].nunique() > car_th and dataframe[col].dtypes == "O"]
     cat_cols = cat_cols + num_but_cat
     cat_cols = [col for col in cat_cols if col not in cat_but_car]
 
@@ -486,17 +515,19 @@ def grab_col_names(dataframe, cat_th=15, car_th=20):
 
     return cat_cols, num_cols, cat_but_car
 
+
 cat_cols, num_cols, cat_but_car = grab_col_names(df)
 
 # KATEGORİK DEĞİŞKENLERİN ANALİZİ
 
 for col in cat_cols:
-    cat_summary(df, col,False)
+    cat_summary(df, col, False)
 
 # NUMERİK DEĞİŞKENLERİN ANALİZİ
 
 for col in num_cols:
     num_summary(df, col, False)
+
 
 ##################################
 # AYKIRI DEĞER ANALİZİ
@@ -510,14 +541,17 @@ def outlier_thresholds(dataframe, col_name, q1=0.05, q3=0.95):
     low_limit = quartile1 - 1.5 * interquantile_range
     return low_limit, up_limit
 
+
 def check_outlier(dataframe, col_name):
     low_limit, up_limit = outlier_thresholds(dataframe, col_name)
     return dataframe[(dataframe[col_name] > up_limit) | (dataframe[col_name] < low_limit)].any(axis=None)
+
 
 def replace_with_thresholds(dataframe, variable, q1=0.05, q3=0.95):
     low_limit, up_limit = outlier_thresholds(dataframe, variable, q1, q3)
     dataframe.loc[(dataframe[variable] < low_limit), variable] = low_limit
     dataframe.loc[(dataframe[variable] > up_limit), variable] = up_limit
+
 
 for col in num_cols:
     print(col, check_outlier(df, col))
@@ -531,6 +565,7 @@ for col in num_cols:
 for col in num_cols:
     print(col, check_outlier(df, col))
 
+
 ##################################
 # RARE ENCODER
 ##################################
@@ -542,7 +577,10 @@ def rare_analyser(dataframe, target, cat_cols):
                             "RATIO": dataframe[col].value_counts() / len(dataframe),
                             "TARGET_MEAN": dataframe.groupby(col)[target].mean()}), end="\n\n\n")
 
+
 rare_analyser(df, "Target", cat_cols)
+
+
 def rare_encoder(dataframe, rare_perc):
     temp_df = dataframe.copy()
 
@@ -557,7 +595,7 @@ def rare_encoder(dataframe, rare_perc):
     return temp_df
 
 
-rare_encoder(df,0.01)
+rare_encoder(df, 0.01)
 
 ##################################
 # YÜKSEK KORELASYON KALDIRMA
@@ -569,6 +607,8 @@ ax.set_title("Correlation Matrix", fontsize=20)
 plt.show()
 
 df.corrwith(df["Target"]).sort_values(ascending=False)
+
+
 def high_correlated_cols(dataframe, plot=False, corr_th=0.70):
     corr = dataframe.corr()
     cor_matrix = corr.abs()
@@ -582,6 +622,7 @@ def high_correlated_cols(dataframe, plot=False, corr_th=0.70):
         plt.show()
     return drop_list
 
+
 high_correlated_cols(df, plot=False)
 
 ##################################
@@ -590,26 +631,29 @@ high_correlated_cols(df, plot=False)
 
 df.columns
 df["Admission grade"].describe().T
-df["NEW_Admission grade"]=pd.qcut(df["Admission grade"],q=5,labels=[1,2,3,4,5])
+df["NEW_Admission grade"] = pd.qcut(df["Admission grade"], q=5, labels=[1, 2, 3, 4, 5])
 df["Previous qualification (grade)"].describe().T
-df["NEW_Previous qualification (grade)"]=pd.qcut(df["Previous qualification (grade)"],q=5,labels=[1,2,3,4,5])
+df["NEW_Previous qualification (grade)"] = pd.qcut(df["Previous qualification (grade)"], q=5, labels=[1, 2, 3, 4, 5])
 df["NEW_Curricular units 1st sem (grade)"] = pd.qcut(df["Curricular units 1st sem (grade)"], q=5,
                                                      labels=["1", "2", "3", "4", "5"])
 df["Curricular units 2nd sem (grade)"] = pd.qcut(df["Curricular units 2nd sem (grade)"], q=5,
-                                                     labels=["1", "2", "3", "4", "5"])
+                                                 labels=["1", "2", "3", "4", "5"])
 
 df.loc[(df['Age at enrollment'] < 19), 'NEW_Age at enrollment'] = '0'
 df.loc[(df['Age at enrollment'] >= 19) & (df['Age at enrollment'] < 25), 'NEW_Age at enrollment'] = '1'
 df.loc[(df['Age at enrollment'] >= 25), 'NEW_Age at enrollment'] = '2'
 
-
 ##################################
 # BASE MODEL KURULUMU
 ##################################
 
-cat_cols=['﻿Marital status', 'Application mode', 'Application order', 'Course', 'Daytime/evening attendance\t', 'Previous qualification', 'Nacionality', "Mother's qualification", "Father's qualification", "Mother's occupation", "Father's occupation", 'Displaced', 'Educational special needs', 'Debtor', 'Tuition fees up to date', 'Gender', 'Scholarship holder', 'International', 'Unemployment rate', 'Inflation rate','GDP']
+cat_cols = ['﻿Marital status', 'Application mode', 'Application order', 'Course', 'Daytime/evening attendance\t',
+            'Previous qualification', 'Nacionality', "Mother's qualification", "Father's qualification",
+            "Mother's occupation", "Father's occupation", 'Displaced', 'Educational special needs', 'Debtor',
+            'Tuition fees up to date', 'Gender', 'Scholarship holder', 'International', 'Unemployment rate',
+            'Inflation rate', 'GDP']
 df[cat_cols]
-df[cat_cols]=df[cat_cols].astype(object)
+df[cat_cols] = df[cat_cols].astype(object)
 
 cat_cols, num_cols, cat_but_car = grab_col_names(df)
 
@@ -617,9 +661,11 @@ dff = df.copy()
 cat_cols = [col for col in cat_cols if col not in ["Target"]]
 cat_cols
 
+
 def one_hot_encoder(dataframe, categorical_cols, drop_first=False):
     dataframe = pd.get_dummies(dataframe, columns=categorical_cols, drop_first=drop_first)
     return dataframe
+
 
 dff = one_hot_encoder(dff, cat_cols, drop_first=True)
 
@@ -630,26 +676,29 @@ X = dff.drop(["Target"], axis=1)
 # Başarı Değerlendirme (LogisticRegression Modeli için)
 #####################
 
-log_model=LogisticRegression().fit(X,y)
-y_pred=log_model.predict(X)
-print(classification_report(y,y_pred))
-y_prob=log_model.predict_proba(X)[:,1]
-roc_auc_score(y,y_prob)
-def plot_confusion_matrix(y,y_pred):
-    acc=round(accuracy_score(y,y_pred),2)
-    cm=confusion_matrix(y,y_pred)
-    sns.heatmap(cm,annot=True,fmt=".0f")
+log_model = LogisticRegression().fit(X, y)
+y_pred = log_model.predict(X)
+print(classification_report(y, y_pred))
+y_prob = log_model.predict_proba(X)[:, 1]
+roc_auc_score(y, y_prob)
+
+
+def plot_confusion_matrix(y, y_pred):
+    acc = round(accuracy_score(y, y_pred), 2)
+    cm = confusion_matrix(y, y_pred)
+    sns.heatmap(cm, annot=True, fmt=".0f")
     plt.xlabel("y_pred")
     plt.xlabel("y")
-    plt.title("Accuary Score:{0}".format(acc),size=10)
+    plt.title("Accuary Score:{0}".format(acc), size=10)
     plt.show()
 
-plot_confusion_matrix(y,y_pred)
 
-cv_results=cross_validate(log_model,
-                          X,y,
-                          cv=5,
-                          scoring=["accuracy","precision","recall","f1","roc_auc"])
+plot_confusion_matrix(y, y_pred)
+
+cv_results = cross_validate(log_model,
+                            X, y,
+                            cv=5,
+                            scoring=["accuracy", "precision", "recall", "f1", "roc_auc"])
 cv_results["test_accuracy"].mean()
 cv_results["test_precision"].mean()
 cv_results["test_recall"].mean()
@@ -661,19 +710,19 @@ cv_results["test_roc_auc"].mean()
 #####################
 
 
-X_train,X_test,y_train,y_test=train_test_split(X,
-                                               y,
-                                               test_size=0.2)
-rf_model=RandomForestClassifier().fit(X_train,y_train)
-y_pred=rf_model.predict(X_test)
-y_prob=rf_model.predict_proba(X_test)[:,1]
-print(classification_report(y_test,y_pred))
-roc_auc_score(y_test,y_prob)
+X_train, X_test, y_train, y_test = train_test_split(X,
+                                                    y,
+                                                    test_size=0.2)
+rf_model = RandomForestClassifier().fit(X_train, y_train)
+y_pred = rf_model.predict(X_test)
+y_prob = rf_model.predict_proba(X_test)[:, 1]
+print(classification_report(y_test, y_pred))
+roc_auc_score(y_test, y_prob)
 
-plot_confusion_matrix(y_test,y_pred)
+plot_confusion_matrix(y_test, y_pred)
+
 
 def plot_importance(model, features, num=len(X), save=False):
-
     feature_imp = pd.DataFrame({"Value": model.feature_importances_, "Feature": features.columns})
     plt.figure(figsize=(10, 10))
     sns.set(font_scale=1)
@@ -684,29 +733,33 @@ def plot_importance(model, features, num=len(X), save=False):
     if save:
         plt.savefig("importances.png")
 
-plot_importance(rf_model, X,15)
+
+plot_importance(rf_model, X, 15)
+
 
 #####################
 # CV ile Başarı Değerlendirme
 #####################
 
 
-def base_models(X,y,scoring="roc_auc"):
+def base_models(X, y, scoring="roc_auc"):
     print("Base Models......")
-    classifiers=[("LR",LogisticRegression()),
-                 ("KNN",KNeighborsClassifier()),
-                 ("CART",DecisionTreeClassifier()),
-                 ("RF",RandomForestClassifier()),
-                 ("Adaboost",AdaBoostClassifier()),
-                 ]
-    for name,classifier in classifiers:
-        cv_results = cross_validate(classifier, X, y, cv=10, scoring=["accuracy", "f1", "roc_auc", "precision", "recall"])
+    classifiers = [("LR", LogisticRegression()),
+                   ("KNN", KNeighborsClassifier()),
+                   ("CART", DecisionTreeClassifier()),
+                   ("RF", RandomForestClassifier()),
+                   ("Adaboost", AdaBoostClassifier()),
+                   ]
+    for name, classifier in classifiers:
+        cv_results = cross_validate(classifier, X, y, cv=10,
+                                    scoring=["accuracy", "f1", "roc_auc", "precision", "recall"])
         print(f"########## {name} ##########")
         print(f"Accuracy: {round(cv_results['test_accuracy'].mean(), 4)}")
         print(f"Auc: {round(cv_results['test_roc_auc'].mean(), 4)}")
         print(f"Recall: {round(cv_results['test_recall'].mean(), 4)}")
         print(f"Precision: {round(cv_results['test_precision'].mean(), 4)}")
         print(f"F1: {round(cv_results['test_f1'].mean(), 4)}")
+
 
 base_models(X, y)
 
@@ -727,6 +780,8 @@ xgboost_params = {"learning_rate": [0.1, 0.01],
 classifiers = [('KNN', KNeighborsClassifier(), knn_params),
                ("CART", DecisionTreeClassifier(), cart_params),
                ("RF", RandomForestClassifier(), rf_params)]
+
+
 def hyperparameter_optimization(X, y, cv=3, scoring="roc_auc"):
     print("Hyperparameter Optimization....")
     best_models = {}
@@ -743,6 +798,7 @@ def hyperparameter_optimization(X, y, cv=3, scoring="roc_auc"):
         print(f"{name} best params: {gs_best.best_params_}", end="\n\n")
         best_models[name] = final_model
     return best_models
+
 
 best_models = hyperparameter_optimization(X, y)
 
@@ -774,14 +830,13 @@ round(cv_results['test_f1'].mean(), 4)
 
 plot_importance(rf_final, X, num=15, save=False)
 
-
 random = X.sample(1, random_state=45)
 
 rf_final.predict(random)
 
-#joblib.dump(rf_final, "rf_final_dropout.pkl")
+# joblib.dump(rf_final, "rf_final_dropout.pkl")
 
-#rf_final_model_from_disc = joblib.load("rf_final_dropout.pkl")
+# rf_final_model_from_disc = joblib.load("rf_final_dropout.pkl")
 
 # df = pd.read_csv("Datasets/data.csv", engine='python', sep=None)
 # random = X.sample(1)
