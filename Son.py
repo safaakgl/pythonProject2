@@ -536,7 +536,7 @@ def rare_analyser(dataframe, target, cat_cols):
                             "TARGET_MEAN": dataframe.groupby(col)[target].mean()}), end="\n\n\n")
 
 
-rare_analyser(df, "TARGET", cat_cols)
+#rare_analyser(df, "TARGET", cat_cols)
 
 
 def rare_encoder(dataframe, rare_perc):
