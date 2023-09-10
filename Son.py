@@ -230,7 +230,7 @@ def check_df(dataframe, head=5):
     print("##################### NA #####################")
     print(dataframe.isnull().sum())
     print("##################### Quantiles #####################")
-    print(dataframe.quantile([0, 0.05, 0.50, 0.95, 0.99, 1]).T)
+    #print(dataframe.quantile([0, 0.05, 0.50, 0.95, 0.99, 1]).T)
 
 
 check_df(df)
