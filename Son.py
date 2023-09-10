@@ -504,8 +504,8 @@ df.loc[(df['AGE_AT_ENROLLMENT'] >= 19) & (df['AGE_AT_ENROLLMENT'] < 25), 'NEW_AG
 df.loc[(df['AGE_AT_ENROLLMENT'] >= 25), 'NEW_AGE_CAT'] = '2'
 
 df["NEW_ADMISSION_GRADE"] = pd.qcut(df["ADMISSION_GRADE"], q=5, labels=[1, 2, 3, 4, 5])
-df["NEW_PREVIOUS_QUALIFICATION_(GRADE)"] = pd.qcut(df['PREVIOUS_QUALIFICATION_(GRADE)'], q=5, labels=[1, 2, 3, 4, 5])
-df["NEW_CURRICULAR_UNITS_1ST_SEM_(GRADE)"] = pd.qcut(df["CURRICULAR_UNITS_1ST_SEM_(GRADE)"], q=5,
+df["NEW_PREVIOUS_QUALIFICATION_(GRADE)"] = pd.qcut(df['PREVIOUS_QUALIFICATION_GRADE'], q=5, labels=[1, 2, 3, 4, 5])
+df["NEW_CURRICULAR_UNITS_1ST_SEM_(GRADE)"] = pd.qcut(df["CURRICULAR_UNITS_1ST_SEM_GRADE"], q=5,
                                                      labels=["1", "2", "3", "4", "5"])
 correlation_matrix(df, num_cols)
 """
@@ -524,7 +524,7 @@ df.dtypes
 # RARE ENCODER
 ##################################
 cat_cols
-#df[cat_cols] = df[cat_cols].astype(object)
+df[cat_cols] = df[cat_cols].astype(object)
 df.info()
 
 
