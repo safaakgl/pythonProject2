@@ -183,7 +183,6 @@ def init_connection():
 connection = init_connection()
 
 
-#connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={st.secrets.db_credentials.server};DATABASE={st.secrets.db_credentials.database};UID={st.secrets.db_credentials.username};PWD={st.secrets.db_credentials.password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
 
 query = "SELECT * FROM Students"
 
