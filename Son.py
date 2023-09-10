@@ -170,7 +170,7 @@ pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
 
 
-connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={server};DATABASE={database};UID={username};PWD={password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
+connection = pyodbc.connect(f'Driver=ODBC Driver 18 for SQL Server;SERVER={st.secrets.db_credentials.server};DATABASE={st.secrets.db_credentials.database};UID={st.secrets.db_credentials.username};PWD={st.secrets.db_credentials.password};Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;')
 
 query = "SELECT * FROM Students"
 
