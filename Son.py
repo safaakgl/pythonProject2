@@ -524,7 +524,7 @@ df.dtypes
 # RARE ENCODER
 ##################################
 cat_cols
-df[cat_cols] = df[cat_cols].astype(object)
+#df[cat_cols] = df[cat_cols].astype(object)
 df.info()
 
 
