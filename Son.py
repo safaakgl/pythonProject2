@@ -102,7 +102,7 @@ warnings.simplefilter(action="ignore")
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 500)
 
-df=pd.read_csv("Datasets/data.csv",sep=None,engine='python')
+df=pd.read_csv("data.csv",sep=None,engine='python')
 df["Target"].value_counts()
 df['Target'] = df['Target'].apply(lambda x: 1 if x == 'Dropout' else 0)
 
