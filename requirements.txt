@@ -8,3 +8,5 @@ lightgbm
 xgboost
 pyodbc
 streamlit
+freetds-bin
+freetds-dev
