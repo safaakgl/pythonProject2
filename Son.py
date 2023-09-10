@@ -412,8 +412,8 @@ def target_summary_with_cat(dataframe, target, categorical_col):
                         "Ratio": 100 * dataframe[categorical_col].value_counts() / len(dataframe)}), end="\n\n\n")
 
 
-for col in cat_cols:
-    target_summary_with_cat(df, "TARGET", col)
+#for col in cat_cols:
+ #   target_summary_with_cat(df, "TARGET", col)
 
 df['TARGET'].value_counts()
 
