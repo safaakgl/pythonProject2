@@ -450,7 +450,7 @@ cat_cols = ['﻿Marital_status', 'Application_mode', 'Application order', 'Cours
             "Mothers_occupation", "Fathers_occupation", 'Displaced', 'Educational_special needs', 'Debtor',
             'Tuition_fees_up_to_date', 'Gender', 'Scholarship_holder', 'International', 'Unemployment_rate',
             'Inflation_rate', 'GDP']
-df[cat_cols]
+
 df[cat_cols] = df[cat_cols].astype(object)
 
 df.info()
