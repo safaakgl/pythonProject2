@@ -325,8 +325,8 @@ cat_cols
 num_cols
 cat_but_car
 
-for col in cat_cols:
-    cat_summary(df, col)
+#for col in cat_cols:
+#    cat_summary(df, col)
 
 df[cat_cols] = df[cat_cols].astype(object)
 
