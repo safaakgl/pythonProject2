@@ -135,8 +135,8 @@
 
 # Gerekli Kütüphane ve Fonksiyonlar
 
-!pip install joblib
-!pip install pyodbc
+pip install joblib
+pip install pyodbc
 
 
 import numpy as np
